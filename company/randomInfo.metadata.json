@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"company.randomInfo"},{"v":2,"key":{"username":1.0},"name":"username_1","ns":"company.randomInfo"}],"uuid":"050b1ab9601e4831aa0856aad58ae679"}
